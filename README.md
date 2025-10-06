@@ -1,6 +1,5 @@
 # Air Quality Index (AQI) Analysis
 
-**Department of Data Science - CSE, Meerut Institute of Engineering and Technology**
 
 ## 📘 Project Overview
 
